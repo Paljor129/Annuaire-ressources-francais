@@ -1,7 +1,7 @@
 import Header from "./components/Header/Header";
 import Menu from "./components/Menu/Menu";
 import React, { Component } from 'react';
-import Footer from './Footer/footer.js';
+import Footer from './components/Footer/Footer.jsx';
 import Cards from './components/Cards.jsx';
 
 import Login from './components/admin/Login';
